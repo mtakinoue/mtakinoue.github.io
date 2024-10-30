@@ -1,2 +1,2 @@
-# mtakinoue.github.io-
+# mtakinoue.github.io
 Link to Takinoue Lab Website
