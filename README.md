@@ -1,2 +1,3 @@
 # mtakinoue.github.io
-Link to Takinoue Lab Website
+Please visit Takinoue Lab Website:
+http://takinoue-lab.jp/
